@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481365332647",
+    "project_id": "flash-chat-5039d",
+    "storage_bucket": "flash-chat-5039d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481365332647:android:8426b8f818756f2cc84182",
+        "android_client_info": {
+          "package_name": "com.gaganvashisht.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481365332647-p1hcarnqe04assn4c9ggrjfn7o0mqtb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByTFyiP3gdPnPEOT8YMZE9NO-8IzUliTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481365332647-p1hcarnqe04assn4c9ggrjfn7o0mqtb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
